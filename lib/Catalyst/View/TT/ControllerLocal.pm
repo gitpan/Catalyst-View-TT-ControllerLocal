@@ -4,7 +4,7 @@ use strict;
 use base 'Catalyst::View::TT';
 use Data::Dumper;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 __PACKAGE__->mk_accessors('include_path');
 
